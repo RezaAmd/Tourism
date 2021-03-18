@@ -1,0 +1,22 @@
+﻿@model WebUI.Areas.Account.Models.SigninViewModel
+@{
+    ViewData["Title"] = "ورود";
+    Layout = "~/Areas/Account/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-body">
+        <h1>ورود</h1>
+        <form action="signin" method="post">
+            <div class="form-group">
+                <label asp-for="phoneNumber"></label>
+                <input asp-for="phoneNumber" />
+            </div>
+            <div class="form-group">
+                <label asp-for="password"></label>
+                <input asp-for="password" />
+            </div>
+            <button type="submit">ورود</button>
+        </form>
+    </div>
+</div>
