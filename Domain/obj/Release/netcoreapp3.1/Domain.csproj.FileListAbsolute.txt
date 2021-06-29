@@ -1,9 +1,0 @@
-C:\Users\reza3\source\repos\Tourism\Domain\bin\Release\netcoreapp3.1\Domain.deps.json
-C:\Users\reza3\source\repos\Tourism\Domain\bin\Release\netcoreapp3.1\Domain.dll
-C:\Users\reza3\source\repos\Tourism\Domain\bin\Release\netcoreapp3.1\Domain.pdb
-C:\Users\reza3\source\repos\Tourism\Domain\obj\Release\netcoreapp3.1\Domain.csprojAssemblyReference.cache
-C:\Users\reza3\source\repos\Tourism\Domain\obj\Release\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
-C:\Users\reza3\source\repos\Tourism\Domain\obj\Release\netcoreapp3.1\Domain.AssemblyInfo.cs
-C:\Users\reza3\source\repos\Tourism\Domain\obj\Release\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
-C:\Users\reza3\source\repos\Tourism\Domain\obj\Release\netcoreapp3.1\Domain.dll
-C:\Users\reza3\source\repos\Tourism\Domain\obj\Release\netcoreapp3.1\Domain.pdb
